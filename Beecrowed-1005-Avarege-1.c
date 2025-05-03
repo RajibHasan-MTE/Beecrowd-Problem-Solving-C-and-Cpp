@@ -1,8 +1,10 @@
-// Problem: Beecrowed-1005 - Average 1
-// Link: https://judge.beecrowd.com/en/problems/view/1005
-// Beecrowed profile: https://judge.beecrowd.com/en/profile/632822
-// Author: Rajib Hasan
-// Date: 3/11/22, 12:00 AM
+/************************************
+Problem: Beecrowed-1005 - Average 1
+Link: https://judge.beecrowd.com/en/problems/view/1005
+Beecrowed profile: https://judge.beecrowd.com/en/profile/632822
+Author: Rajib Hasan
+Date: 15/11/22, 1:00 AM
+************************************/
 #include<stdio.h>
 
 

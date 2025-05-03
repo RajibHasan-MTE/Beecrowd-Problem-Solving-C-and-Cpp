@@ -1,6 +1,6 @@
 
 /************************************
-Problem: Beecrowed-1005 - Average 1
+Problem: Beecrowed-1007 - Difference
 Link: https://judge.beecrowd.com/en/problems/view/1007
 Beecrowed profile: https://judge.beecrowd.com/en/profile/632822
 Author: Rajib Hasan
