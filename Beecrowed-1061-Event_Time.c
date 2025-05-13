@@ -1,5 +1,5 @@
 /************************************
-Problem: Beecrowed-1061 Event Time
+Problem: Beecrowed-1061 Event_Time
 Link: https://judge.beecrowd.com/en/problems/view/1061
 Beecrowed profile: https://judge.beecrowd.com/en/profile/632822
 Author: Rajib Hasan
